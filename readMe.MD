@@ -1,1 +1,1 @@
-2018-07-27 creat project
+2018-07-27 first created
